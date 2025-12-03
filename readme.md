@@ -61,7 +61,7 @@ Patterns are organized into categories:
 * 	Adapter – Converts one interface into another.
 * 	Bridge – Decouples abstraction from implementation.
 * 	Façade – Simplifies complex subsystems with a unified interface.
-* 	Proxy – Provides a placeholder to control access.
+* 	Proxy – Provides a placeholder to control access. Can change the behavior of the object while keeping the same interface.
 * 	Decorator – Dynamically adds responsibilities to objects.
 * 	Flyweight – Shares common state efficiently across many objects.
 
