@@ -52,27 +52,27 @@ g++ --version
 Each design pattern is implemented in incremental examples with clear documentation and comments.
 Patterns are organized into categories:
 ### Creational Patterns
-• 	Builder – Step-by-step construction of complex objects.
-• 	Factory Method – Delegates instantiation to subclasses.
-• 	Abstract Factory – Creates families of related objects.
-• 	Prototype – Clones existing objects.
-• 	Singleton – Ensures a single instance globally.
+* Builder – Step-by-step construction of complex objects.
+* Factory Method – Delegates instantiation to subclasses.
+*	Abstract Factory – Creates families of related objects.
+*	Prototype – Clones existing objects.
+*	Singleton – Ensures a single instance globally.
 ### Structural Patterns
-• 	Adapter – Converts one interface into another.
-• 	Bridge – Decouples abstraction from implementation.
-• 	Façade – Simplifies complex subsystems with a unified interface.
-• 	Proxy – Provides a placeholder to control access.
-• 	Decorator – Dynamically adds responsibilities to objects.
-• 	Flyweight – Shares common state efficiently across many objects.
+* 	Adapter – Converts one interface into another.
+* 	Bridge – Decouples abstraction from implementation.
+* 	Façade – Simplifies complex subsystems with a unified interface.
+* 	Proxy – Provides a placeholder to control access.
+* 	Decorator – Dynamically adds responsibilities to objects.
+* 	Flyweight – Shares common state efficiently across many objects.
 
 ### Behavioral Patterns
-• 	Observer – Notifies multiple objects of state changes.
-• 	Strategy – Encapsulates interchangeable algorithms.
-• 	Command – Encapsulates requests as objects.
-• 	State – Allows objects to change behavior based on internal state.
-• 	Iterator – Provides sequential access to collections.
+* 	Observer – Notifies multiple objects of state changes.
+* 	Strategy – Encapsulates interchangeable algorithms.
+* 	Command – Encapsulates requests as objects.
+* 	State – Allows objects to change behavior based on internal state.
+* 	Iterator – Provides sequential access to collections.
 ### Principles
-• 	SOLID Principles – Examples demonstrating Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion.
+* 	SOLID Principles – Examples demonstrating Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion.
 
 ### Compilation & Execution
 
