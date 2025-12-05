@@ -66,6 +66,7 @@ Patterns are organized into categories:
 * 	Flyweight – Shares common state efficiently across many objects.
 
 ### Behavioral Patterns
+*   Chain of responsability - Sequence of handlers processing an event one after another.
 * 	Observer – Notifies multiple objects of state changes.
 * 	Strategy – Encapsulates interchangeable algorithms.
 * 	Command – Encapsulates requests as objects.
