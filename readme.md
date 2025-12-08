@@ -71,6 +71,7 @@ Patterns are organized into categories:
 * 	Strategy – Encapsulates interchangeable algorithms.
 * 	Command – Encapsulates requests as objects.
 * 	State – Allows objects to change behavior based on internal state.
+*   Interpreter -  Allows process of sequences in two stages: lexing and parsing.
 * 	Iterator – Provides sequential access to collections.
 ### Principles
 * 	SOLID Principles – Examples demonstrating Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion.
