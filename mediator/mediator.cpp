@@ -1,5 +1,5 @@
 /*
-Mediator Design Pattern: A component that facilitates communication between diferent other components
+Mediator Design Pattern: A component that facilitates communication between different other components
 without them needing to refer to each other directly.
 
 ChatRoom example: A chat room where users can send messages to each other through the chat room mediator.
