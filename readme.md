@@ -51,7 +51,7 @@ g++ --version
 
 Each design pattern is implemented in incremental examples with clear documentation and comments.
 Patterns are organized into categories:
-### Creational Patterns
+### Creator Patterns
 * Builder – Step-by-step construction of complex objects.
 * Factory Method – Delegates instantiation to subclasses.
 *	Abstract Factory – Creates families of related objects.
@@ -66,7 +66,7 @@ Patterns are organized into categories:
 * 	Flyweight – Shares common state efficiently across many objects.
 
 ### Behavioral Patterns
-*   Chain of responsability - Sequence of handlers processing an event one after another.
+*   Chain of responsibility - Sequence of handlers processing an event one after another.
 * 	Observer – Notifies multiple objects of state changes.
 * 	Strategy – Encapsulates interchangeable algorithms.
 * 	Command – Encapsulates requests as objects.
