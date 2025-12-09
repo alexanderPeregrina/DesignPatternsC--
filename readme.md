@@ -74,7 +74,8 @@ Patterns are organized into categories:
 *   Interpreter -  Allows process of sequences in two stages: lexing and parsing.
 * 	Iterator – Provides sequential access to collections.
 *   Mediator - Facilitates communication between different components.
-*   Memento - Used to store and revert the state of the system to a specific state. Can provide Undo and Redo functionality for the system. 
+*   Memento - Used to store and revert the state of the system to a specific point in time. 
+    Can provide Undo and Redo functionality to the system. 
 ### Principles
 * 	SOLID Principles – Examples demonstrating Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion.
 
