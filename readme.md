@@ -76,6 +76,7 @@ Patterns are organized into categories:
 *   Mediator - Facilitates communication between different components.
 *   Memento - Used to store and revert the state of the system to a specific point in time. 
     Can provide Undo and Redo functionality to the system. 
+*   Template - Defines the skeleton of an algorithm in a base class while allowing specific subclasses to customize specific steps.
 ### Principles
 * 	SOLID Principles – Examples demonstrating Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion.
 
