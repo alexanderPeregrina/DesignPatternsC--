@@ -77,6 +77,7 @@ Patterns are organized into categories:
 *   Memento - Used to store and revert the state of the system to a specific point in time. 
     Can provide Undo and Redo functionality to the system. 
 *   Template - Defines the skeleton of an algorithm in a base class while allowing specific subclasses to customize specific steps.
+*   Visitor -  Add new operations on existing object structures by decoupling the operation logic (the "visitor") from the object structure (the element being visited).
 ### Principles
 * 	SOLID Principles – Examples demonstrating Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion.
 
